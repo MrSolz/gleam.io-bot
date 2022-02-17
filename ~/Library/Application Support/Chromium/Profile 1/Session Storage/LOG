@@ -1,0 +1,4 @@
+2021/12/12-00:30:28.075 3007 Reusing MANIFEST /Users/sondt/Desktop/gleam.io-bot/~/Library/Application Support/Chromium/Profile 1/Session Storage/MANIFEST-000001
+2021/12/12-00:30:28.075 3007 Recovering log #4
+2021/12/12-00:30:28.075 3007 (ignoring error) /Users/sondt/Desktop/gleam.io-bot/~/Library/Application Support/Chromium/Profile 1/Session Storage/000004.log: dropping 76 bytes; Corruption: missing start of fragmented record(2)
+2021/12/12-00:30:28.075 3007 Reusing old log /Users/sondt/Desktop/gleam.io-bot/~/Library/Application Support/Chromium/Profile 1/Session Storage/000004.log 

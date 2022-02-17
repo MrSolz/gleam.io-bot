@@ -1,0 +1,8 @@
+2021/12/09-15:49:45.329 14203 Reusing MANIFEST /Users/sondt/Desktop/gleam.io-bot/~/Library/Application Support/Chromium/Default/IndexedDB/https_sweepwidget.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/09-15:49:45.330 14203 Recovering log #4
+2021/12/09-15:49:45.330 14203 Reusing old log /Users/sondt/Desktop/gleam.io-bot/~/Library/Application Support/Chromium/Default/IndexedDB/https_sweepwidget.com_0.indexeddb.leveldb/000004.log 
+2021/12/09-15:50:13.330 1591b Level-0 table #8: started
+2021/12/09-15:50:13.331 1591b Level-0 table #8: 0 bytes OK
+2021/12/09-15:50:13.374 1591b Delete type=0 #4
+2021/12/09-15:50:13.376 1591b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/09-15:50:13.376 1591b Manual compaction at level-1 from (begin) .. (end); will stop at (end)
